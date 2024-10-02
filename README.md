@@ -1,5 +1,5 @@
 # Hola 💬
-![logo1](![apolo](https://github.com/user-attachments/assets/baee1441-4312-427a-8c1a-4c492f4a102a))
+![apolo](https://github.com/user-attachments/assets/baee1441-4312-427a-8c1a-4c492f4a102a)
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
